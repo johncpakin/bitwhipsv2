@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "header": "This is a test",
+        "title": "BitWhips NFTs",
+        "content": "The ONLY Unreal Engine Racing Game on Solana.",
+        "image": "/img/header.gif"
+    },
+    {
+        "id": 2,
+        "title": "Level Design",
+        "content": "Where the ",
+        "image": "/img/road.png"
+    },
+    {
+        "id": 3,
+        "title": "Business value through digital products",
+        "content": "",
+        "image": "/img/slid/01.jpg"
+    }
+]

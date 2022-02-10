@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/3336.png",
+  "image2": "/img/Marlbro.png",
+  "image3": "/img/Tesla.png",
+  "smallTitle": "Utility",
+  "title": { "first": "We are more than just", "second": "a picture." },
+  "content": "Most NFTs have a very base level use case, but that's not the case here. BitWhips ability to integrate as your in-game vehicle gives you the ability to wager your NFT against someone elses! You can be collecting pinks on the daily!",
+  "features": [
+    {
+      "id": 1,
+      "icon": "cash",
+      "name": { "first": "Play To", "second": "Earn" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Authentic", "second": "Artwork" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "car",
+      "name": { "first": "Unreal", "second": "Engine" },
+      "wowDelay": ".8s"
+    }
+  ]
+}
